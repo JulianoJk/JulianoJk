@@ -33,7 +33,7 @@ I'm **Juliano**, a passionate **front-end engineer** with over two years of expe
 
 ### Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/juliano-jika-268aa9196/)
 
 ---
 
