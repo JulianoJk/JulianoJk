@@ -34,7 +34,3 @@ I'm **Juliano**, a passionate **front-end engineer** with over two years of expe
 ### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/juliano-jika-268aa9196/)
-
----
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JulianoJk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
