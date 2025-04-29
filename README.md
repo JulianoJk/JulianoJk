@@ -1,36 +1,48 @@
 ### Hi there! 👋
 
-I'm **Juliano**, a passionate **front-end engineer** with over two years of experience in **React** and **TypeScript**. Currently, I work at **GWI**, where I bring my enthusiasm for web development to life by building innovative and user-friendly applications. I love taking on new challenges, which push me to constantly learn and refine my skills. Collaboration is key to my success, and I enjoy working with others to craft impactful solutions.
+I'm **Juliano**, a passionate **Front-End / Full-Stack Developer** with over **3 years** of experience building scalable and user-friendly web applications using **React.js**, **TypeScript**, and modern web technologies. Based in **Düsseldorf, Germany**, I’m enthusiastic about clean code, accessibility, and performance-driven design. I thrive in Agile teams and love collaborating to turn ideas into robust, production-ready features.
 
 ---
 
-### About Me:
-- 🧑‍💻 **Position**: Junior Frontend Engineer
-- 🏢 **Company**: GWI
-- 🛠️ **Skills**: React, TypeScript, Express.js, C# (.NET)
-- 🎓 **Education**: BSc in Computer Science from Empire State University SUNY, USA, and New York College in Greece
-- 🌐 **Interests**: Building modern web applications, solving complex problems, and staying updated with the latest tech trends
+### 💼 About Me:
+- 🧑‍💻 **Role**: Front-End / Full-Stack Developer (Front-End Focus)
+- 📍 **Location**: Düsseldorf, Germany (EU work authorization)
+- 🛠️ **Tech Stack**: React, TypeScript, Express.js, .NET (C#), MySQL, Docker
+- 🎓 **Education**: BSc in Computer Science – Empire State University (SUNY), USA
+- 🌐 **Portfolio**: [julianojika.site](https://julianojika.site)
+- 🔗 **LinkedIn**: [linkedin.com/in/juliano-jika-268aa9196](https://www.linkedin.com/in/juliano-jika-268aa9196/)
+- 📬 **Email**: julianojika@gmail.com
 
 ---
 
-### GitHub Stats:
+### 🚀 Interests:
+- Building modern, high-performance web apps
+- Creating accessible and responsive UIs (WCAG)
+- Learning new frameworks (currently exploring Next.js and GraphQL)
+- Collaborating in Agile squads and writing testable, maintainable code
+
+---
+
+### 📊 GitHub Stats:
 
 ![Juliano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianoJk&count_private=true&show_icons=true&theme=dark)
 
 ---
 
-### Most Used Languages:
+### 📌 Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoJk&layout=compact&theme=dark)
 
 ---
 
-### Trophies:
+### 🏆 Trophies:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=JulianoJk&theme=darkhub&no-frame=true&row=1)
 
 ---
 
-### Connect with Me:
+### 🔗 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/juliano-jika-268aa9196/)
+
+---
