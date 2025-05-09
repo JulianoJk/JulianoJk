@@ -6,7 +6,6 @@ I'm **Juliano**, a passionate **Front-End / Full-Stack Developer** with over **3
 
 ### 💼 About Me:
 - 🧑‍💻 **Role**: Front-End / Full-Stack Developer (Front-End Focus)
-- 📍 **Location**: Düsseldorf, Germany (EU work authorization)
 - 🛠️ **Tech Stack**: React, TypeScript, Express.js, .NET (C#), MySQL, Docker
 - 🎓 **Education**: BSc in Computer Science – Empire State University (SUNY), USA
 - 🌐 **Portfolio**: [julianojika.site](https://julianojika.site)
