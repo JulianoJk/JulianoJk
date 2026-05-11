@@ -10,7 +10,6 @@ I'm **Juliano**, a passionate **Front-End / Full-Stack Developer** with over **3
 - 🎓 **Education**: BSc in Computer Science – Empire State University (SUNY), USA
 - 🌐 **Portfolio**: [julianojika.site](https://julianojika.site)
 - 🔗 **LinkedIn**: [linkedin.com/in/juliano-jika-268aa9196](https://www.linkedin.com/in/juliano-jika-268aa9196/)
-- 📬 **Email**: julianojika@gmail.com
 
 ---
 
